@@ -1,5 +1,5 @@
-cars = 1000000
-space_in_a_car = 4.0
+cars = 2000000
+space_in_a_car = 4.5
 drivers = 30
 passengers = 90
 cars_not_driven = cars - drivers
