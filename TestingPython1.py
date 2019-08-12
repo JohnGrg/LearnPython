@@ -1,4 +1,4 @@
-cars = 2000000
+cars = 600000
 space_in_a_car = 4.5
 drivers = 30
 passengers = 90
